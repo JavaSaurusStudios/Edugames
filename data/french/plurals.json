@@ -1,4 +1,6 @@
-[
-    {"prompt": "groot", "m": "grand", "f": "grande"},
-    {"prompt": "klein", "m": "petit", "f": "petite"}
-]
+{
+    "data": [
+        {"prompt": "groot", "m": "grand", "f": "grande"},
+        {"prompt": "klein", "m": "petit", "f": "petite"}
+    ]
+}
