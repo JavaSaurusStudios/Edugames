@@ -1,4 +1,4 @@
 [
- {"prompt": "groot", "m":"grand","f":"grande"},
- {"prompt": "klein": "m":"petit","f":"petite"}
+    {"prompt": "groot", "m": "grand", "f": "grande"},
+    {"prompt": "klein", "m": "petit", "f": "petite"}
 ]
