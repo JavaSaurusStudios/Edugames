@@ -15,7 +15,7 @@
         {"prompt": "un copain", "mrv": "des copains"},
         {"prompt": "un garçon", "mrv": "des garçons"},
         {"prompt": "une tartine", "mrv": "des tartines"},
-        {"prompt": "l'ordinateur", "mrv": "des ordinateurs"},
+        {"prompt": "l'ordinateur", "mrv": "les ordinateurs"},
         {"prompt": "un portable", "mrv": "des portables"},
         {"prompt": "une copine", "mrv": "des copines"},
         {"prompt": "une soeur", "mrv": "des soeurs"},
