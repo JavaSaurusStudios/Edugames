@@ -1,0 +1,1369 @@
+{
+    "data": [
+        {
+            "type": "plus",
+            "prompt": "un livre",
+            "answer": "des livres"
+        },
+        {
+            "type": "plus",
+            "prompt": "une fille",
+            "answer": "des filles"
+        },
+        {
+            "type": "plus",
+            "prompt": "le cahier",
+            "answer": "les cahiers"
+        },
+        {
+            "type": "plus",
+            "prompt": "la classe",
+            "answer": "les classes"
+        },
+        {
+            "type": "plus",
+            "prompt": "l'école",
+            "answer": "les écoles"
+        },
+        {
+            "type": "plus",
+            "prompt": "un bureau",
+            "answer": "des bureaux"
+        },
+        {
+            "type": "plus",
+            "prompt": "le jeu",
+            "answer": "les jeux"
+        },
+        {
+            "type": "plus",
+            "prompt": "la maison",
+            "answer": "les maisons"
+        },
+        {
+            "type": "plus",
+            "prompt": "le magasin",
+            "answer": "les magasins"
+        },
+        {
+            "type": "plus",
+            "prompt": "le croissant",
+            "answer": "les croissants"
+        },
+        {
+            "type": "plus",
+            "prompt": "un cadeau",
+            "answer": "des cadeaux"
+        },
+        {
+            "type": "plus",
+            "prompt": "une chaise",
+            "answer": "des chaises"
+        },
+        {
+            "type": "plus",
+            "prompt": "un copain",
+            "answer": "des copains"
+        },
+        {
+            "type": "plus",
+            "prompt": "un garçon",
+            "answer": "des garçons"
+        },
+        {
+            "type": "plus",
+            "prompt": "une tartine",
+            "answer": "des tartines"
+        },
+        {
+            "type": "plus",
+            "prompt": "l'ordinateur",
+            "answer": "les ordinateurs"
+        },
+        {
+            "type": "plus",
+            "prompt": "un portable",
+            "answer": "des portables"
+        },
+        {
+            "type": "plus",
+            "prompt": "une copine",
+            "answer": "des copines"
+        },
+        {
+            "type": "plus",
+            "prompt": "une soeur",
+            "answer": "des soeurs"
+        },
+        {
+            "type": "plus",
+            "prompt": "le mur",
+            "answer": "les murs"
+        },
+        {
+            "type": "plus",
+            "prompt": "le fromage",
+            "answer": "les fromages"
+        },
+        {
+            "type": "plus",
+            "prompt": "le diner",
+            "answer": "les diners"
+        },
+        {
+            "type": "plus",
+            "prompt": "la dance",
+            "answer": "les dances"
+        },
+        {
+            "type": "plus",
+            "prompt": "la boisson",
+            "answer": "les boissons"
+        },
+        {
+            "type": "plus",
+            "prompt": "la table",
+            "answer": "les tables"
+        },
+        {
+            "type": "plus",
+            "prompt": "l'heure",
+            "answer": "les heures"
+        },
+        {
+            "type": "plus",
+            "prompt": "Antoine et Sylvie sont (petit)",
+            "answer": "petits"
+        },
+        {
+            "type": "plus",
+            "prompt": "Des filles (heureuse)",
+            "answer": "heureuses"
+        },
+        {
+            "type": "plus",
+            "prompt": "Les (beau) garçons",
+            "answer": "beaux"
+        },
+        {
+            "type": "plus",
+            "prompt": "Ce sont des sacs à dos (jaune)",
+            "answer": "jaunes"
+        },
+        {
+            "type": "plus",
+            "prompt": "Ce sont des boissons (chaud)",
+            "answer": "chaudes"
+        },
+        {
+            "type": "plus",
+            "prompt": "Ce sont de (gentil) garçons",
+            "answer": "gentils"
+        },
+        {
+            "type": "plus",
+            "prompt": "Ce sont de (grande) classes",
+            "answer": "grandes"
+        },
+        {
+            "type": "plus",
+            "prompt": "Ce sont de (nouvelle) tables",
+            "answer": "nouvelles"
+        },
+        {
+            "type": "transl",
+            "prompt": "un âge",
+            "answer": "een leeftijd"
+        },
+        {
+            "type": "transl",
+            "prompt": "un an",
+            "answer": "een jaar"
+        },
+        {
+            "type": "transl",
+            "prompt": "une classe",
+            "answer": "een klas"
+        },
+        {
+            "type": "transl",
+            "prompt": "une danse",
+            "answer": "een dans"
+        },
+        {
+            "type": "transl",
+            "prompt": "une fille",
+            "answer": "een meisje"
+        },
+        {
+            "type": "transl",
+            "prompt": "un frère",
+            "answer": "een broer"
+        },
+        {
+            "type": "transl",
+            "prompt": "un garcon",
+            "answer": "een jongen"
+        },
+        {
+            "type": "transl",
+            "prompt": "madame",
+            "answer": "mevrouw"
+        },
+        {
+            "type": "transl",
+            "prompt": "mademoiselle",
+            "answer": "juffrouw"
+        },
+        {
+            "type": "transl",
+            "prompt": "monsieur",
+            "answer": "meneer"
+        },
+        {
+            "type": "transl",
+            "prompt": "une poste",
+            "answer": "een postkantoor"
+        },
+        {
+            "type": "transl",
+            "prompt": "une soeur",
+            "answer": "een zus"
+        },
+        {
+            "type": "transl",
+            "prompt": "une tablette",
+            "answer": "een tablet"
+        },
+        {
+            "type": "transl",
+            "prompt": "adorer",
+            "answer": "zielsveel houden van"
+        },
+        {
+            "type": "transl",
+            "prompt": "s'appeler",
+            "answer": "heten"
+        },
+        {
+            "type": "transl",
+            "prompt": "habiter",
+            "answer": "wonen"
+        },
+        {
+            "type": "transl",
+            "prompt": "jouer",
+            "answer": "spelen"
+        },
+        {
+            "type": "transl",
+            "prompt": "aussi",
+            "answer": "ook"
+        },
+        {
+            "type": "transl",
+            "prompt": "combien",
+            "answer": "hoeveel"
+        },
+        {
+            "type": "transl",
+            "prompt": "encore",
+            "answer": "nog"
+        },
+        {
+            "type": "transl",
+            "prompt": "près de",
+            "answer": "dicht bij"
+        },
+        {
+            "type": "transl",
+            "prompt": "presque",
+            "answer": "bijna"
+        },
+        {
+            "type": "transl",
+            "prompt": "quel",
+            "answer": "welk(e)"
+        },
+        {
+            "type": "transl",
+            "prompt": "quelle",
+            "answer": "welk(e)"
+        },
+        {
+            "type": "transl",
+            "prompt": "sixième",
+            "answer": "zesde"
+        },
+        {
+            "type": "transl",
+            "prompt": "sur",
+            "answer": "op"
+        },
+        {
+            "type": "transl",
+            "prompt": "zéro",
+            "answer": "nul"
+        },
+        {
+            "type": "transl",
+            "prompt": "un",
+            "answer": "een"
+        },
+        {
+            "type": "transl",
+            "prompt": "deux",
+            "answer": "twee"
+        },
+        {
+            "type": "transl",
+            "prompt": "trois",
+            "answer": "drie"
+        },
+        {
+            "type": "transl",
+            "prompt": "quatre",
+            "answer": "vier"
+        },
+        {
+            "type": "transl",
+            "prompt": "cinq",
+            "answer": "vijf"
+        },
+        {
+            "type": "transl",
+            "prompt": "six",
+            "answer": "zes"
+        },
+        {
+            "type": "transl",
+            "prompt": "sept",
+            "answer": "zeven"
+        },
+        {
+            "type": "transl",
+            "prompt": "huit",
+            "answer": "acht"
+        },
+        {
+            "type": "transl",
+            "prompt": "neuf",
+            "answer": "negen"
+        },
+        {
+            "type": "transl",
+            "prompt": "dix",
+            "answer": "tien"
+        },
+        {
+            "type": "transl",
+            "prompt": "onze",
+            "answer": "elf"
+        },
+        {
+            "type": "transl",
+            "prompt": "douze",
+            "answer": "twaalf"
+        },
+        {
+            "type": "transl",
+            "prompt": "treize",
+            "answer": "dertien"
+        },
+        {
+            "type": "transl",
+            "prompt": "quatorze",
+            "answer": "veertien"
+        },
+        {
+            "type": "transl",
+            "prompt": "quinze",
+            "answer": "vijftien"
+        },
+        {
+            "type": "transl",
+            "prompt": "seize",
+            "answer": "zestien"
+        },
+        {
+            "type": "transl",
+            "prompt": "dix-sept",
+            "answer": "zeventien"
+        },
+        {
+            "type": "transl",
+            "prompt": "dix-huit",
+            "answer": "achttien"
+        },
+        {
+            "type": "transl",
+            "prompt": "dix-neuf",
+            "answer": "negentien"
+        },
+        {
+            "type": "transl",
+            "prompt": "vingt",
+            "answer": "twintig"
+        },
+        {
+            "type": "transl",
+            "prompt": "Comment tu t'appelles?",
+            "answer": "Hoe heet je?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Je m'appelle...",
+            "answer": "Ik heet..."
+        },
+        {
+            "type": "transl",
+            "prompt": "Tu as quel âge?",
+            "answer": "Hoe oud ben je?"
+        },
+        {
+            "type": "transl",
+            "prompt": "J'ai ... ans",
+            "answer": "Ik ben ... jaar"
+        },
+        {
+            "type": "transl",
+            "prompt": "Tu habites où?",
+            "answer": "Waar woon jij?"
+        },
+        {
+            "type": "transl",
+            "prompt": "J'habite à Lille",
+            "answer": "Ik woon in Rijsel"
+        },
+        {
+            "type": "transl",
+            "prompt": "J'habite près de la poste",
+            "answer": "Ik woon dicht bij het postkantoor"
+        },
+        {
+            "type": "transl",
+            "prompt": "Tu es dans quelle classe?",
+            "answer": "In welk leerjaar zit jij?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Je suis en sixième",
+            "answer": "Ik zit in het zesde leerjaar"
+        },
+        {
+            "type": "transl",
+            "prompt": "Vous êtes combien à la maison?",
+            "answer": "Met hoeveel zijn jullie thuis?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Nous sommes cinq",
+            "answer": "We zijn met vijf"
+        },
+        {
+            "type": "transl",
+            "prompt": "Ils adorent jouer sur la tablette",
+            "answer": "Ze spelen heel graag op de tablet"
+        },
+        {
+            "type": "transl",
+            "prompt": "le beurre",
+            "answer": "de boter"
+        },
+        {
+            "type": "transl",
+            "prompt": "une boisson",
+            "answer": "een drank"
+        },
+        {
+            "type": "transl",
+            "prompt": "un croissant",
+            "answer": "een croissant"
+        },
+        {
+            "type": "transl",
+            "prompt": "le fromage",
+            "answer": "de kaas"
+        },
+        {
+            "type": "transl",
+            "prompt": "une heure",
+            "answer": "een uur"
+        },
+        {
+            "type": "transl",
+            "prompt": "le lait",
+            "answer": "de melk"
+        },
+        {
+            "type": "transl",
+            "prompt": "un peu",
+            "answer": "een beetje"
+        },
+        {
+            "type": "transl",
+            "prompt": "une table",
+            "answer": "een tafel"
+        },
+        {
+            "type": "transl",
+            "prompt": "une tartine",
+            "answer": "een boterham"
+        },
+        {
+            "type": "transl",
+            "prompt": "le temps",
+            "answer": "de tijd"
+        },
+        {
+            "type": "transl",
+            "prompt": "un sac à dos",
+            "answer": "een rugzak"
+        },
+        {
+            "type": "transl",
+            "prompt": "boire",
+            "answer": "drinken"
+        },
+        {
+            "type": "transl",
+            "prompt": "manger",
+            "answer": "eten"
+        },
+        {
+            "type": "transl",
+            "prompt": "partir",
+            "answer": "vertrekken"
+        },
+        {
+            "type": "transl",
+            "prompt": "passer",
+            "answer": "doorgeven"
+        },
+        {
+            "type": "transl",
+            "prompt": "prendre",
+            "answer": "nemen"
+        },
+        {
+            "type": "transl",
+            "prompt": "chaud",
+            "answer": "warm"
+        },
+        {
+            "type": "transl",
+            "prompt": "comme",
+            "answer": "als"
+        },
+        {
+            "type": "transl",
+            "prompt": "debout",
+            "answer": "opstaan"
+        },
+        {
+            "type": "transl",
+            "prompt": "demi",
+            "answer": "half"
+        },
+        {
+            "type": "transl",
+            "prompt": "mais",
+            "answer": "maar"
+        },
+        {
+            "type": "transl",
+            "prompt": "mon",
+            "answer": "mijn"
+        },
+        {
+            "type": "transl",
+            "prompt": "puis",
+            "answer": "daarna"
+        },
+        {
+            "type": "transl",
+            "prompt": "vite",
+            "answer": "vlug"
+        },
+        {
+            "type": "transl",
+            "prompt": "vrai",
+            "answer": "waar"
+        },
+        {
+            "type": "transl",
+            "prompt": "tout le monde",
+            "answer": "iederen"
+        },
+        {
+            "type": "transl",
+            "prompt": "c'est vrai?",
+            "answer": "is het waar?"
+        },
+        {
+            "type": "transl",
+            "prompt": "ils sont à table",
+            "answer": "ze zitten aan tafel"
+        },
+        {
+            "type": "transl",
+            "prompt": "Qu'est-ce que tu vas manger?",
+            "answer": "Wat ga je eten?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Je vais prendre un croissant",
+            "answer": "Ik ga een croissant nemen"
+        },
+        {
+            "type": "transl",
+            "prompt": "Et comme boisson?",
+            "answer": "En als drank?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Tu me passes le beurre, s'il te plait?",
+            "answer": "Wil je mij de boter doorgeven, alsjeblieft?"
+        },
+        {
+            "type": "transl",
+            "prompt": "S'il vous plait",
+            "answer": "Alstublieft"
+        },
+        {
+            "type": "transl",
+            "prompt": "Bon appétit",
+            "answer": "Smakelijk"
+        },
+        {
+            "type": "transl",
+            "prompt": "Quelle heure est-il?",
+            "answer": "Hoe laat is het?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Il est temps",
+            "answer": "Het is tijd"
+        },
+        {
+            "type": "transl",
+            "prompt": "Tout le monde est prêt?",
+            "answer": "Is iedereen klaar?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Nous sommes en retard",
+            "answer": "We zijn te laat"
+        },
+        {
+            "type": "transl",
+            "prompt": "Nous allons partir",
+            "answer": "We gaan vertrekken"
+        },
+        {
+            "type": "transl",
+            "prompt": "Zut!",
+            "answer": "Verdorie!"
+        },
+        {
+            "type": "transl",
+            "prompt": "un cahier",
+            "answer": "een schrift"
+        },
+        {
+            "type": "transl",
+            "prompt": "une chaise",
+            "answer": "een stoel"
+        },
+        {
+            "type": "transl",
+            "prompt": "un copain",
+            "answer": "een vriend"
+        },
+        {
+            "type": "transl",
+            "prompt": "une copine",
+            "answer": "een vriendin"
+        },
+        {
+            "type": "transl",
+            "prompt": "le français",
+            "answer": "het Frans"
+        },
+        {
+            "type": "transl",
+            "prompt": "un livre",
+            "answer": "een boek"
+        },
+        {
+            "type": "transl",
+            "prompt": "un mur",
+            "answer": "een muur"
+        },
+        {
+            "type": "transl",
+            "prompt": "un ordinateur",
+            "answer": "een computer"
+        },
+        {
+            "type": "transl",
+            "prompt": "un ordinateur portable",
+            "answer": "een laptop"
+        },
+        {
+            "type": "transl",
+            "prompt": "un paquet",
+            "answer": "een pakket"
+        },
+        {
+            "type": "transl",
+            "prompt": "un portable",
+            "answer": "een gsm"
+        },
+        {
+            "type": "transl",
+            "prompt": "un poster",
+            "answer": "een poster"
+        },
+        {
+            "type": "transl",
+            "prompt": "un professeur",
+            "answer": "een leraar"
+        },
+        {
+            "type": "transl",
+            "prompt": "une professeur",
+            "answer": "een lerares"
+        },
+        {
+            "type": "transl",
+            "prompt": "un smartphone",
+            "answer": "een smartphone"
+        },
+        {
+            "type": "transl",
+            "prompt": "comprendre",
+            "answer": "begrijpen"
+        },
+        {
+            "type": "transl",
+            "prompt": "à côté de",
+            "answer": "naast"
+        },
+        {
+            "type": "transl",
+            "prompt": "à gauche",
+            "answer": "links"
+        },
+        {
+            "type": "transl",
+            "prompt": "à droite",
+            "answer": "rechts"
+        },
+        {
+            "type": "transl",
+            "prompt": "contre",
+            "answer": "tegen"
+        },
+        {
+            "type": "transl",
+            "prompt": "depuis",
+            "answer": "sinds"
+        },
+        {
+            "type": "transl",
+            "prompt": "devant",
+            "answer": "voor"
+        },
+        {
+            "type": "transl",
+            "prompt": "derrière",
+            "answer": "achter"
+        },
+        {
+            "type": "transl",
+            "prompt": "gentil",
+            "answer": "vriendelijk"
+        },
+        {
+            "type": "transl",
+            "prompt": "heureux",
+            "answer": "gelukkig"
+        },
+        {
+            "type": "transl",
+            "prompt": "hier",
+            "answer": "gisteren"
+        },
+        {
+            "type": "transl",
+            "prompt": "joli",
+            "answer": "mooi"
+        },
+        {
+            "type": "transl",
+            "prompt": "mon",
+            "answer": "mijn"
+        },
+        {
+            "type": "transl",
+            "prompt": "nouveau",
+            "answer": "nieuw"
+        },
+        {
+            "type": "transl",
+            "prompt": "petit",
+            "answer": "klein"
+        },
+        {
+            "type": "transl",
+            "prompt": "sous",
+            "answer": "onder"
+        },
+        {
+            "type": "transl",
+            "prompt": "surtout",
+            "answer": "vooral"
+        },
+        {
+            "type": "transl",
+            "prompt": "ton",
+            "answer": "jouw"
+        },
+        {
+            "type": "transl",
+            "prompt": "je suis heureux",
+            "answer": "ik ben gelukkig"
+        },
+        {
+            "type": "transl",
+            "prompt": "Nous sommes seize",
+            "answer": "we zijn met zestien"
+        },
+        {
+            "type": "transl",
+            "prompt": "il y a",
+            "answer": "er zijn er"
+        },
+        {
+            "type": "transl",
+            "prompt": "n'est-ce pas?",
+            "answer": "nietwaar?"
+        },
+        {
+            "type": "transl",
+            "prompt": "il y a des chaises",
+            "answer": "er zijn stoelen"
+        },
+        {
+            "type": "transl",
+            "prompt": "il y a des livres sur la table",
+            "answer": "er liggen boeken op tafel"
+        },
+        {
+            "type": "transl",
+            "prompt": "Depuis hier",
+            "answer": "sinds gisteren"
+        },
+        {
+            "type": "transl",
+            "prompt": "Qui est devant toi?",
+            "answer": "Wie zit er voor jou?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Qui est derrière toi?",
+            "answer": "Wie zit achter jou?"
+        },
+        {
+            "type": "transl",
+            "prompt": "à gauche, il y a mon copain.",
+            "answer": "Links zit mijn vriend"
+        },
+        {
+            "type": "transl",
+            "prompt": "quelle chance",
+            "answer": "wat een geluk"
+        },
+        {
+            "type": "transl",
+            "prompt": "il est bon en français",
+            "answer": "hij is goed in Frans"
+        },
+        {
+            "type": "transl",
+            "prompt": "elle est bonne en français",
+            "answer": "zij is goed in Frans"
+        },
+        {
+            "type": "transl",
+            "prompt": "l'Allemagne",
+            "answer": "Duitsland"
+        },
+        {
+            "type": "transl",
+            "prompt": "les cheveux",
+            "answer": "de haren"
+        },
+        {
+            "type": "transl",
+            "prompt": "une couleur",
+            "answer": "een kleur"
+        },
+        {
+            "type": "transl",
+            "prompt": "l'italie",
+            "answer": "Italie"
+        },
+        {
+            "type": "transl",
+            "prompt": "des lunettes",
+            "answer": "een bril"
+        },
+        {
+            "type": "transl",
+            "prompt": "une photo",
+            "answer": "een foto"
+        },
+        {
+            "type": "transl",
+            "prompt": "les vacances",
+            "answer": "de vakantie"
+        },
+        {
+            "type": "transl",
+            "prompt": "des yeux",
+            "answer": "ogen"
+        },
+        {
+            "type": "transl",
+            "prompt": "porter",
+            "answer": "dragen"
+        },
+        {
+            "type": "transl",
+            "prompt": "beau",
+            "answer": "mooi"
+        },
+        {
+            "type": "transl",
+            "prompt": "belle",
+            "answer": "mooi"
+        },
+        {
+            "type": "transl",
+            "prompt": "grand",
+            "answer": "groot"
+        },
+        {
+            "type": "transl",
+            "prompt": "grande",
+            "answer": "groot"
+        },
+        {
+            "type": "transl",
+            "prompt": "sympa",
+            "answer": "sympathiek"
+        },
+        {
+            "type": "transl",
+            "prompt": "sympathique",
+            "answer": "sympathiek"
+        },
+        {
+            "type": "transl",
+            "prompt": "les couleurs",
+            "answer": "de kleuren"
+        },
+        {
+            "type": "transl",
+            "prompt": "Voici",
+            "answer": "Hier is"
+        },
+        {
+            "type": "transl",
+            "prompt": "il y a beaucoup",
+            "answer": "het zijn er veel"
+        },
+        {
+            "type": "transl",
+            "prompt": "il est comment?",
+            "answer": "hoe ziet hij er uit?"
+        },
+        {
+            "type": "transl",
+            "prompt": "elle est comment?",
+            "answer": "hoe ziet zij er uit?"
+        },
+        {
+            "type": "transl",
+            "prompt": "il a les cheveux blonds",
+            "answer": "hij heeft blond haar"
+        },
+        {
+            "type": "transl",
+            "prompt": "elle a les yeux noirs",
+            "answer": "zij heeft zwarte ogen"
+        },
+        {
+            "type": "transl",
+            "prompt": "elle porte des lunettes",
+            "answer": "zij draagt een bril"
+        },
+        {
+            "type": "transl",
+            "prompt": "il est d'ou?",
+            "answer": "waar komt hij vandaan?"
+        },
+        {
+            "type": "transl",
+            "prompt": "il habite en Italie",
+            "answer": "hij woont in italie"
+        },
+        {
+            "type": "transl",
+            "prompt": "tout a fait",
+            "answer": "precies"
+        },
+        {
+            "type": "transl",
+            "prompt": "chouette!",
+            "answer": "tof zeg!"
+        },
+        {
+            "type": "transl",
+            "prompt": "il est sympa",
+            "answer": "hij is sympathiek"
+        },
+        {
+            "prompt": "avoir (je)",
+            "type": "verb",
+            "answer": "j'ai"
+        },
+        {
+            "prompt": "avoir (tu)",
+            "type": "verb",
+            "answer": "tu as"
+        },
+        {
+            "prompt": "avoir (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on a"
+        },
+        {
+            "prompt": "avoir (nous)",
+            "type": "verb",
+            "answer": "nous avons"
+        },
+        {
+            "prompt": "avoir (vous)",
+            "type": "verb",
+            "answer": "vous avez"
+        },
+        {
+            "prompt": "avoir (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles ont"
+        },
+        {
+            "prompt": "être (je)",
+            "type": "verb",
+            "answer": "je suis"
+        },
+        {
+            "prompt": "être (tu)",
+            "type": "verb",
+            "answer": "tu es"
+        },
+        {
+            "prompt": "être (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on est"
+        },
+        {
+            "prompt": "être (nous)",
+            "type": "verb",
+            "answer": "nous sommes"
+        },
+        {
+            "prompt": "être (vous)",
+            "type": "verb",
+            "answer": "vous êtes"
+        },
+        {
+            "prompt": "être (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles sont"
+        },
+        {
+            "prompt": "aller (je)",
+            "type": "verb",
+            "answer": "je vais"
+        },
+        {
+            "prompt": "aller (tu)",
+            "type": "verb",
+            "answer": "tu vas"
+        },
+        {
+            "prompt": "aller (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on va"
+        },
+        {
+            "prompt": "aller (nous)",
+            "type": "verb",
+            "answer": "nous allons"
+        },
+        {
+            "prompt": "aller (vous)",
+            "type": "verb",
+            "answer": "vous allez"
+        },
+        {
+            "prompt": "aller (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles vont"
+        },
+        {
+            "prompt": "aimer (je)",
+            "type": "verb",
+            "answer": "j'aime"
+        },
+        {
+            "prompt": "aimer (tu)",
+            "type": "verb",
+            "answer": "tu aimes"
+        },
+        {
+            "prompt": "aimer (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on aime"
+        },
+        {
+            "prompt": "aimer (nous)",
+            "type": "verb",
+            "answer": "nous aimons"
+        },
+        {
+            "prompt": "aimer (vous)",
+            "type": "verb",
+            "answer": "vous aimez"
+        },
+        {
+            "prompt": "aimer (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles aiment"
+        },
+        {
+            "prompt": "appeler (je)",
+            "type": "verb",
+            "answer": "j'appelle"
+        },
+        {
+            "prompt": "appeler (tu)",
+            "type": "verb",
+            "answer": "tu appelles"
+        },
+        {
+            "prompt": "appeler (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on appelle"
+        },
+        {
+            "prompt": "appeler (nous)",
+            "type": "verb",
+            "answer": "nous appelons"
+        },
+        {
+            "prompt": "appeler (vous)",
+            "type": "verb",
+            "answer": "vous appelez"
+        },
+        {
+            "prompt": "appeler (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles appellent"
+        },
+        {
+            "prompt": "habiter (je)",
+            "type": "verb",
+            "answer": "j'habite"
+        },
+        {
+            "prompt": "habiter (tu)",
+            "type": "verb",
+            "answer": "tu habites"
+        },
+        {
+            "prompt": "habiter (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on habite"
+        },
+        {
+            "prompt": "habiter (nous)",
+            "type": "verb",
+            "answer": "nous habitons"
+        },
+        {
+            "prompt": "habiter (vous)",
+            "type": "verb",
+            "answer": "vous habitez"
+        },
+        {
+            "prompt": "habiter (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles habitent"
+        },
+        {
+            "prompt": "dormir (je)",
+            "type": "verb",
+            "answer": "je dors"
+        },
+        {
+            "prompt": "dormir (tu)",
+            "type": "verb",
+            "answer": "tu dors"
+        },
+        {
+            "prompt": "dormir (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on dort"
+        },
+        {
+            "prompt": "dormir (nous)",
+            "type": "verb",
+            "answer": "nous dormons"
+        },
+        {
+            "prompt": "dormir (vous)",
+            "type": "verb",
+            "answer": "vous dormez"
+        },
+        {
+            "prompt": "dormir (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles dorment"
+        },
+        {
+            "prompt": "adorer (je)",
+            "type": "verb",
+            "answer": "j'adore"
+        },
+        {
+            "prompt": "adorer (tu)",
+            "type": "verb",
+            "answer": "tu adores"
+        },
+        {
+            "prompt": "adorer (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on adore"
+        },
+        {
+            "prompt": "adorer (nous)",
+            "type": "verb",
+            "answer": "nous adorons"
+        },
+        {
+            "prompt": "adorer (vous)",
+            "type": "verb",
+            "answer": "vous adorez"
+        },
+        {
+            "prompt": "adorer (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles adorent"
+        },
+        {
+            "prompt": "prendre (je)",
+            "type": "verb",
+            "answer": "je prends"
+        },
+        {
+            "prompt": "prendre (tu)",
+            "type": "verb",
+            "answer": "tu prends"
+        },
+        {
+            "prompt": "prendre (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on prend"
+        },
+        {
+            "prompt": "prendre (nous)",
+            "type": "verb",
+            "answer": "nous prenons"
+        },
+        {
+            "prompt": "prendre (vous)",
+            "type": "verb",
+            "answer": "vous prenez"
+        },
+        {
+            "prompt": "prendre (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles prennent"
+        },
+        {
+            "prompt": "manger (je)",
+            "type": "verb",
+            "answer": "je mange"
+        },
+        {
+            "prompt": "manger (tu)",
+            "type": "verb",
+            "answer": "tu manges"
+        },
+        {
+            "prompt": "manger (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on mange"
+        },
+        {
+            "prompt": "manger (nous)",
+            "type": "verb",
+            "answer": "nous mangeons"
+        },
+        {
+            "prompt": "manger (vous)",
+            "type": "verb",
+            "answer": "vous mangez"
+        },
+        {
+            "prompt": "manger (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles mangent"
+        },
+        {
+            "prompt": "passer (je)",
+            "type": "verb",
+            "answer": "je passe"
+        },
+        {
+            "prompt": "passer (tu)",
+            "type": "verb",
+            "answer": "tu passes"
+        },
+        {
+            "prompt": "passer (il/elle/on)",
+            "type": "verb",
+            "answer": "il/elle/on passe"
+        },
+        {
+            "prompt": "passer (nous)",
+            "type": "verb",
+            "answer": "nous passons"
+        },
+        {
+            "prompt": "passer (vous)",
+            "type": "verb",
+            "answer": "vous passez"
+        },
+        {
+            "prompt": "passer (ils/elles)",
+            "type": "verb",
+            "answer": "ils/elles passent"
+        }
+    ]
+}
