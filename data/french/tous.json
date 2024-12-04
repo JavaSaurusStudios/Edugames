@@ -1364,6 +1364,266 @@
             "prompt": "passer (ils/elles)",
             "type": "verb",
             "answer": "ils/elles passent"
+        },
+        {
+            "prompt": "één uur",
+            "answer": "Il est une heure",
+            "type": "time"
+        },
+        {
+            "prompt": "twee uur",
+            "answer": "Il est deux heures",
+            "type": "time"
+        },
+        {
+            "prompt": "drie uur",
+            "answer": "Il est trois heures",
+            "type": "time"
+        },
+        {
+            "prompt": "vier uur",
+            "answer": "Il est quatre heures",
+            "type": "time"
+        },
+        {
+            "prompt": "vijf uur",
+            "answer": "Il est cinq heures",
+            "type": "time"
+        },
+        {
+            "prompt": "zes uur",
+            "answer": "Il est six heures",
+            "type": "time"
+        },
+        {
+            "prompt": "zeven uur",
+            "answer": "Il est sept heures",
+            "type": "time"
+        },
+        {
+            "prompt": "acht uur",
+            "answer": "Il est huit heures",
+            "type": "time"
+        },
+        {
+            "prompt": "negen uur",
+            "answer": "Il est neuf heures",
+            "type": "time"
+        },
+        {
+            "prompt": "tien uur",
+            "answer": "Il est dix heures",
+            "type": "time"
+        },
+        {
+            "prompt": "elf uur",
+            "answer": "Il est onze heures",
+            "type": "time"
+        },
+        {
+            "prompt": "twaalf uur 's middags",
+            "answer": "Il est midi",
+            "type": "time"
+        },
+        {
+            "prompt": "twaalf uur 's nachts",
+            "answer": "Il est minuit",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over één",
+            "answer": "Il est une heure et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over twee",
+            "answer": "Il est deux heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over drie",
+            "answer": "Il est trois heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over vier",
+            "answer": "Il est quatre heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over vijf",
+            "answer": "Il est cinq heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over zes",
+            "answer": "Il est six heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over zeven",
+            "answer": "Il est sept heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over acht",
+            "answer": "Il est huit heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over negen",
+            "answer": "Il est neuf heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over tien",
+            "answer": "Il est dix heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over elf",
+            "answer": "Il est onze heures et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over twaalf 's middags",
+            "answer": "Il est midi et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart over twaalf 's nachts",
+            "answer": "Il est minuit et quart",
+            "type": "time"
+        },
+        {
+            "prompt": "half twee",
+            "answer": "Il est une heure et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half drie",
+            "answer": "Il est deux heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half vier",
+            "answer": "Il est trois heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half vijf",
+            "answer": "Il est quatre heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half zes",
+            "answer": "Il est cinq heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half zeven",
+            "answer": "Il est six heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half acht",
+            "answer": "Il est sept heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half negen",
+            "answer": "Il est huit heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half tien",
+            "answer": "Il est neuf heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half elf",
+            "answer": "Il est dix heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half twaalf",
+            "answer": "Il est onze heures et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half één 's middags",
+            "answer": "Il est midi et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "half één 's nachts",
+            "answer": "Il est minuit et demie",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor één",
+            "answer": "Il est une heure moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor twee",
+            "answer": "Il est deux heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor drie",
+            "answer": "Il est trois heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor vier",
+            "answer": "Il est quatre heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor vijf",
+            "answer": "Il est cinq heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor zes",
+            "answer": "Il est six heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor zeven",
+            "answer": "Il est sept heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor acht",
+            "answer": "Il est huit heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor negen",
+            "answer": "Il est neuf heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor tien",
+            "answer": "Il est dix heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor elf",
+            "answer": "Il est onze heures moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor twaalf 's middags",
+            "answer": "Il est midi moins le quart",
+            "type": "time"
+        },
+        {
+            "prompt": "kwart voor twaalf 's nachts",
+            "answer": "Il est minuit moins le quart",
+            "type": "time"
         }
     ]
 }
