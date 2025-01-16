@@ -47,7 +47,7 @@
         },
         {
             "type": "transl",
-            "prompt": "une fruite des courses",
+            "prompt": "une liste des courses",
             "answer": "een boodschappenlijst"
         },
         {
